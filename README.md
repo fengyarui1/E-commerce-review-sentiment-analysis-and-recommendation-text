@@ -1,7 +1,7 @@
 # E-commerce-review-sentiment-analysis-and-recommendation-text
 本项目是一个基于Python的电商评论情感分析与推荐文本生成系统，主要功能包括：  1. **情感分析**：对用户输入的文本进行情感极性分析，判断其为正面、负面还是中性情感 2. **好评生成**：根据用户输入的文本内容，提取关键词并生成符合要求的好评文本  系统采用了朴素贝叶斯分类器进行情感分析，并结合TextRank算法和星火大模型实现好评生成功能。
-![屏幕截图 2026-03-28 113630](https://github.com/user-attachments/assets/ea672603-5757-4fd3-85d8-48fb2c89b3ab)
 ![屏幕截图 2026-03-28 113506](https://github.com/user-attachments/assets/50c46981-0a8c-4e97-9de3-57b69537d4e7)
+![屏幕截图 2026-03-28 113630](https://github.com/user-attachments/assets/ea672603-5757-4fd3-85d8-48fb2c89b3ab)
 ![屏幕截图 2026-03-28 113646](https://github.com/user-attachments/assets/fdb752f8-9c4b-4250-820a-8ade5ff0f079)
 ## 项目结构
 
